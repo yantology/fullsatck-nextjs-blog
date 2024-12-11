@@ -1,7 +1,7 @@
 
 # Building Next.js Fullstack Blog with TypeScript, Shadcn/ui, MDX, Prisma and Vercel Postgres
 
-this peject inpiration by [`w3tsadev next blog`](https://github.com/w3tsadev/next-blog)
+this project inpiration by [`w3tsadev next blog`](https://github.com/w3tsadev/next-blog)
 
 [Tutorial](https://www.youtube.com/watch?v=htgktwXYw6g)
 
